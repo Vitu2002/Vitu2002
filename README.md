@@ -1,6 +1,6 @@
 # Olá ${visitor.name}! 👋
 
-Eu me chamo **Vitor** e sou completamente fasinado pelo mundo da tecnologia, programação e hacking ✨ _special_ ✨
+Eu me chamo **Vitor** e sou apenas um estudante completamente apaixonado pelo mundo da games, tecnologia, hacking, e em especial ✨ _programação_ ✨
 
 ##
 
