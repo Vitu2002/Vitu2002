@@ -71,8 +71,8 @@ Eu me chamo **Vitor** e sou apenas um estudante completamente apaixonado pelo mu
 <table width="100%" border="0">
   <tr>
     <td>
-     <a href="https://github.com/Vitu2002">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vitu2002&repo=Super-chan&show_icons=true&line_height=20&title_color=27DD00&icon_color=27DD00&text_color=D3D3D3&bg_color=0d1117&hide_border=true&custom_title=Estatísticas%20do%20Github&locale=pt-br" alt="Vitu2002 Github Stats" />
+     <a href="https://github.com/Vitu2002/discord-bot-template">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vitu2002&repo=discord-bot-template&show_icons=true&line_height=20&title_color=27DD00&icon_color=27DD00&text_color=D3D3D3&bg_color=0d1117&hide_border=true&custom_title=Estatísticas%20do%20Github&locale=pt-br" alt="Vitu2002 Github Stats" />
      </a>
     </td>
   </tr>
