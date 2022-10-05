@@ -19,22 +19,17 @@ Eu me chamo **Vitor**, tenho 18 anos e sou apenas um desenvolvedor que ama anime
   </tr>
 </table>
 
-## Linguagens, frameworks e serviços que eu utilizo (ou já utilizei):
+## Minhas principais linguagens e frameworks:
 
-<div align="center">
+<div align="center" style="display: table;">
       <a href="https://www.typescriptlang.org/docs/"><span><img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></span></a>
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><span><img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /></span></a>
       <a href="https://nodejs.org"><span><img align="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" /></span></a>
       <a href="https://nextjs.org"><span><img align="center" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.JS" /></span></a>
       <a href="https://pt-br.reactjs.org"><span><img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" /></span></a>
-      <a href="https://www.prisma.io"><span><img align="center" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" /></span></a>
-      <a href="https://www.mongodb.com/"><span><img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></span></a>
-      <a href="https://www.mysql.com"><span><img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></span></a>
-      <a href="https://www.postgresql.org"><span><img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></span></a>
       <a href="https://sass-lang.com"><span><img align="center" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" /></span></a>
-      <a href="https://aws.amazon.com/pt/"><span><img align="center" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"alt="AWS" /></span></a>
-      <a href="https://cloudflare.com"><span><img align="center" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=NodeJS&logoColor=white" alt="Cloudflare" /></span></a>
-      <a href="https://azure.microsoft.com/pt-br/"><span><img align="center" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" /></span></a>
+      <a href="https://www.prisma.io"><span><img align="center" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" /></span></a>
+      <a href="https://www.postgresql.org"><span><img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></span></a>
 </div>
 
 ## Gostaria de entrar em contato?
