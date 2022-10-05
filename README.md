@@ -1,6 +1,6 @@
-# Olá ${visitor.name}! 👋
+# Olá! 👋
 
-Eu me chamo **Vitor** e sou apenas um estudante completamente apaixonado pelo mundo da games, tecnologia, hacking, e em especial ✨ _programação_ ✨
+Eu me chamo **Vitor**, tenho 18 anos e sou apenas um desenvolvedor que ama animes, jogos e tecnologia.
 
 ##
 
@@ -37,20 +37,11 @@ Eu me chamo **Vitor** e sou apenas um estudante completamente apaixonado pelo mu
       <a href="https://azure.microsoft.com/pt-br/"><span><img align="center" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" /></span></a>
 </div>
 
-## Algumas pequenas coisinhas sobre mim:
-
-- 🔭 Atualmente eu estou focado no projeto da [SuperScans](https://superscans.site), um website para leitura de webtoons em geral. 
-- 🌱 Atualmente eu estou tentando aprender mais sobre NextJS, NodeJS e TypeScript, mas pretendo aprender Java e React Native.
-- 👯 Atualmente eu estou procurando projetos (principalmente bots de discord) para contribuir com a comunidade. (Dê uma olhada na [Super-chan](https://github.com/SuperScans/Super-chan).)
-- 🤔 Procurando contexto nesse maldito **this**.
-- 💬 Pergunte-me sobre qualquer coisa, se estiver ao meu alcance e conhecimento, certamente tentarei lhe ajudar.
-- ⚡ Fato engraçado: Eu me interessei por hacking por conta dos filmes que eu assistia quando criança, só não sei como vim parar no desenvolvimento. 😄
-
 ## Gostaria de entrar em contato?
 
 <div align="center">
   <span>
-    <a href="mailto:contato@vitorlach.site">
+    <a href="mailto:vitu@yomumangas.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" alt="E-Mail" />
     </a>
   </span>
@@ -65,15 +56,3 @@ Eu me chamo **Vitor** e sou apenas um estudante completamente apaixonado pelo mu
     </a>
   </span>
 </div>
-
-## Repositórios Importantes
-
-<table width="100%" border="0">
-  <tr>
-    <td>
-     <a href="https://github.com/Vitu2002/discord-bot-template">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vitu2002&repo=discord-bot-template&show_icons=true&line_height=20&title_color=27DD00&icon_color=27DD00&text_color=D3D3D3&bg_color=0d1117&hide_border=true&custom_title=Estatísticas%20do%20Github&locale=pt-br" alt="Vitu2002 Github Stats" />
-     </a>
-    </td>
-  </tr>
-</table>
