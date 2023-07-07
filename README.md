@@ -18,10 +18,10 @@ I'm a 19y Brazilian who loves anime, manga, games, cats, and *pão de mel*. I'm 
 <table>
   <tr>
     <td>
-      <img align='center' src='https://github-readme-stats.vercel.app/api?username=Vitu2002&show_icons=true&theme=transparent&border_color=606060&bg_color=181818&include_all_commits=true&rank_icon=github&title_color=e7e7e7&icon_color=3577ff&text_color=B3B3B3&border_radius=4.25&ring_color=3577ff&custom_title=My%20Github%20Stats' />
+      <img align='center' src='https://github-readme-stats-pearl-nu-37.vercel.app/api?username=Vitu2002&show_icons=true&theme=transparent&border_color=606060&bg_color=181818&include_all_commits=true&title_color=e7e7e7&icon_color=3577ff&text_color=B3B3B3&border_radius=4.25&ring_color=3577ff&custom_title=My%20Github%20Stats' />
     </td>
     <td>
-      <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs?username=Vitu2002&show_icons=true&theme=transparent&border_color=606060&bg_color=181818&include_all_commits=true&rank_icon=github&title_color=e7e7e7&text_color=B3B3B3&border_radius=4.25' />
+      <img align='center' src='https://github-readme-stats-pearl-nu-37.vercel.app/api/top-langs?username=Vitu2002&show_icons=true&theme=transparent&border_color=606060&bg_color=181818&include_all_commits=true&rank_icon=github&title_color=e7e7e7&text_color=B3B3B3&border_radius=4.25&layout=compact' />
     </td>
   </tr>
 </table>
